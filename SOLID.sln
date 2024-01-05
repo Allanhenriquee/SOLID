@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP", "SRP", "{37BFDB11-2CC6-43E5-A9BE-D0D9C8E52292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP.Bad.Console", "src\SRP\SRP.Bad.Console\SRP.Bad.Console.csproj", "{EB05BDD5-9AB1-47BE-8325-136CC48F90FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SRP.Good.Console", "src\SRP\SRP.Good.Console\SRP.Good.Console.csproj", "{62A6B53D-3D08-4BD4-829B-4809D823034A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EB05BDD5-9AB1-47BE-8325-136CC48F90FD} = {37BFDB11-2CC6-43E5-A9BE-D0D9C8E52292}
+		{62A6B53D-3D08-4BD4-829B-4809D823034A} = {37BFDB11-2CC6-43E5-A9BE-D0D9C8E52292}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB05BDD5-9AB1-47BE-8325-136CC48F90FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB05BDD5-9AB1-47BE-8325-136CC48F90FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB05BDD5-9AB1-47BE-8325-136CC48F90FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB05BDD5-9AB1-47BE-8325-136CC48F90FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62A6B53D-3D08-4BD4-829B-4809D823034A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62A6B53D-3D08-4BD4-829B-4809D823034A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62A6B53D-3D08-4BD4-829B-4809D823034A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62A6B53D-3D08-4BD4-829B-4809D823034A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
