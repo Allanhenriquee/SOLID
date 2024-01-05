@@ -31,3 +31,6 @@ Dentro desse diretório existem 2 projetos console exemplificando as práticas d
 - Good = Bons exemplos do que podemos fazer!
 
 ![image](https://github.com/Allanhenriquee/SOLID/assets/52016301/1dbfa155-6c92-4426-8bbf-d9a0a273d7e5)
+
+
+# Outras implementações, explicações e exemplos em breve! :)
